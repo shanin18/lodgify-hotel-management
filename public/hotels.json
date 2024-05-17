@@ -1,0 +1,216 @@
+[
+  {
+    "id": "1001",
+    "name": "Luxury Palace Hotel",
+    "location": "Paris, France",
+    "rating": 4.5,
+    "price": "$300",
+    "images": [
+      "https://i.ibb.co/41FNQHr/16.webp",
+      "https://i.ibb.co/G5X4dSx/1.webp",
+      "https://i.ibb.co/SDg1rZC/2.webp",
+      "https://i.ibb.co/Xz9RYhF/3.webp"
+    ],
+    "description": "Experience the epitome of luxury at the Luxury Palace Hotel in the heart of Paris. With breathtaking views of the Eiffel Tower and world-class amenities, your stay will be nothing short of extraordinary.",
+    "amenities": ["Free Wi-Fi", "Spa", "Fitness Center", "Restaurant", "Bar"],
+    "view": "City View",
+    "size": "450 sqft",
+    "bed_type": "King Size Bed",
+    "categories": ["Luxury", "5-Star"]
+  },
+  {
+    "id": "1002",
+    "name": "Beachfront Resort & Spa",
+    "location": "Maui, Hawaii",
+    "rating": 4.8,
+    "price": "$500",
+    "images": [
+      "https://i.ibb.co/CWXNyJ3/26.webp",
+      "https://i.ibb.co/thb178L/4.webp",
+      "https://i.ibb.co/xLfj73p/5.webp",
+      "https://i.ibb.co/9wDrMkc/6.webp"
+    ],
+    "description": "Escape to paradise at our Beachfront Resort & Spa in Maui. Enjoy stunning ocean views, pristine beaches, and world-class amenities including a luxury spa, infinity pool, and gourmet dining options.",
+    "amenities": [
+      "Beach Access",
+      "Infinity Pool",
+      "Spa",
+      "Fitness Center",
+      "Water Sports"
+    ],
+    "view": "Ocean View",
+    "size": "600 sqft",
+    "bed_type": "Queen Size Bed",
+    "categories": ["Beachfront", "Resort"]
+  },
+  {
+    "id": "1003",
+    "name": "Mountain Lodge Retreat",
+    "location": "Aspen, Colorado",
+    "rating": 4.3,
+    "price": "$400",
+    "images": [
+      "https://i.ibb.co/R7698Pn/13.webp",
+      "https://i.ibb.co/HKhPb8j/7.webp",
+      "https://i.ibb.co/kHYrpmY/8.webp",
+      "https://i.ibb.co/7gMXPTs/9.webp"
+    ],
+    "description": "Embrace the tranquility of nature at our Mountain Lodge Retreat in scenic Aspen. Surrounded by majestic mountains and lush forests, our cozy lodge offers the perfect escape for outdoor enthusiasts and relaxation seekers alike.",
+    "amenities": [
+      "Ski-in/Ski-out Access",
+      "Hot Tub",
+      "Fireplace",
+      "Restaurant",
+      "Bar"
+    ],
+    "view": "Mountain View",
+    "size": "550 sqft",
+    "bed_type": "Double Bed",
+    "categories": ["Mountain", "Lodge"]
+  },
+  {
+    "id": "1004",
+    "name": "Urban Boutique Hotel",
+    "location": "New York City, USA",
+    "rating": 4.6,
+    "price": "$350",
+    "images": [
+      "https://i.ibb.co/S6b7sRX/27.webp",
+      "https://i.ibb.co/BNQbvjw/10.webp",
+      "https://i.ibb.co/XsR7V0y/11.webp",
+      "https://i.ibb.co/CMcm88Z/12.webp"
+    ],
+    "description": "Discover the vibrant energy of New York City at our Urban Boutique Hotel. Located in the heart of Manhattan, our stylish boutique hotel offers modern accommodations, personalized service, and easy access to the city's top attractions.",
+    "amenities": [
+      "City Views",
+      "Rooftop Bar",
+      "Fitness Center",
+      "Concierge Service",
+      "Complimentary Breakfast"
+    ],
+    "view": "City View",
+    "size": "500 sqft",
+    "bed_type": "Queen Size Bed",
+    "categories": ["Urban", "Boutique"]
+  },
+  {
+    "id": "1005",
+    "name": "Historic Castle Resort",
+    "location": "Edinburgh, Scotland",
+    "rating": 4.7,
+    "price": "$450",
+    "images": [
+      "https://i.ibb.co/Qf5fG6Q/14.webp",
+      "https://i.ibb.co/bj4Wvk7/15.webp",
+      "https://i.ibb.co/mGs9zr0/17.webp",
+      "https://i.ibb.co/frX24w1/18.webp"
+    ],
+    "description": "Step back in time at our Historic Castle Resort in the enchanting city of Edinburgh. Immerse yourself in centuries of history while enjoying modern comforts, elegant accommodations, and breathtaking views of the Scottish countryside.",
+    "amenities": ["Castle Tours", "Gardens", "Restaurant", "Bar", "Library"],
+    "view": "Garden View",
+    "size": "700 sqft",
+    "bed_type": "King Size Bed",
+    "categories": ["Historic", "Castle"]
+  },
+  {
+    "id": "1006",
+    "name": "Tropical Island Paradise",
+    "location": "Bora Bora, French Polynesia",
+    "rating": 4.9,
+    "price": "$700",
+    "images": [
+      "https://i.ibb.co/QbWCTW0/29.webp",
+      "https://i.ibb.co/Dwvh14J/19.webp",
+      "https://i.ibb.co/VBc5FKk/20.webp",
+      "https://i.ibb.co/2Nm6VQy/21.webp"
+    ],
+    "description": "Indulge in luxury and relaxation at our Tropical Island Paradise in Bora Bora. Set amidst crystal-clear waters and pristine beaches, our exclusive resort offers overwater bungalows, private beachfront villas, and world-class amenities.",
+    "amenities": [
+      "Overwater Bungalows",
+      "Private Beach",
+      "Infinity Pool",
+      "Spa",
+      "Fine Dining"
+    ],
+    "view": "Ocean View",
+    "size": "800 sqft",
+    "bed_type": "King Size Bed",
+    "categories": ["Tropical", "Island"]
+  },
+  {
+    "id": "1007",
+    "name": "Mountain View Retreat",
+    "location": "Banff, Canada",
+    "rating": 4.6,
+    "price": "$380",
+    "images": [
+
+      "https://i.ibb.co/wYqnWyP/28.webp",
+      "https://i.ibb.co/R0BPnwY/23.webp",
+      "https://i.ibb.co/jrYmrJk/24.webp",
+      "https://i.ibb.co/qdfRjZn/22.webp"
+    ],
+    "description": "Experience the beauty of the Canadian Rockies at our Mountain View Retreat in Banff. Surrounded by pristine wilderness, our cozy lodge offers breathtaking views, outdoor adventures, and cozy accommodations.",
+    "amenities": [
+      "Hiking Trails",
+      "Hot Springs",
+      "Fire Pit",
+      "Restaurant",
+      "Bar"
+    ],
+    "view": "Mountain View",
+    "size": "600 sqft",
+    "bed_type": "Queen Size Bed",
+    "categories": ["Mountain", "Retreat"]
+  },
+  {
+    "id": "1008",
+    "name": "Riverside Resort & Spa",
+    "location": "Amazon Rainforest, Brazil",
+    "rating": 4.7,
+    "price": "$550",
+    "images": [
+      "https://i.ibb.co/DrFBvcN/30.webp",
+      "https://i.ibb.co/41FNQHr/16.webp",
+      "https://i.ibb.co/9wDrMkc/6.webp",
+      "https://i.ibb.co/BNQbvjw/10.webp"
+    ],
+    "description": "Discover the wonders of the Amazon Rainforest at our Riverside Resort & Spa. Immerse yourself in nature, embark on wildlife adventures, and relax in luxury accommodations surrounded by lush rainforest.",
+    "amenities": [
+      "Rainforest Tours",
+      "Infinity Pool",
+      "Spa",
+      "Guided Hikes",
+      "Canopy Walk"
+    ],
+    "view": "River View",
+    "size": "700 sqft",
+    "bed_type": "King Size Bed",
+    "categories": ["Riverside", "Resort"]
+  },
+  {
+    "id": "1009",
+    "name": "Desert Oasis Retreat",
+    "location": "Dubai, United Arab Emirates",
+    "rating": 4.8,
+    "price": "$600",
+    "images": [
+      "https://i.ibb.co/41FNQHr/16.webp",
+      "https://i.ibb.co/Qf5fG6Q/14.webp",
+      "https://i.ibb.co/VBc5FKk/20.webp",
+      "https://i.ibb.co/HKhPb8j/7.webp"
+    ],
+    "description": "Escape to luxury in the heart of the Arabian Desert at our Desert Oasis Retreat in Dubai. Experience the ultimate in relaxation and indulgence with luxurious accommodations, private pools, and world-class amenities.",
+    "amenities": [
+      "Private Pool",
+      "Spa",
+      "Camel Rides",
+      "Desert Safaris",
+      "Fine Dining"
+    ],
+    "view": "Desert View",
+    "size": "750 sqft",
+    "bed_type": "King Size Bed",
+    "categories": ["Desert", "Oasis"]
+  }
+]
