@@ -41,7 +41,7 @@ const Gallery = () => {
                 alt="gallery"
                 className="w-full object-cover h-full object-center block"
                 src={"/images/gallery/3.webp"}
-                blurDataURL={"/images/gallery/3.jpg"}
+                blurDataURL={"/images/gallery/3.webp"}
               />
             </div>
             <div
@@ -57,7 +57,7 @@ const Gallery = () => {
                 alt="gallery"
                 className="w-full object-cover h-full object-center block"
                 src={"/images/gallery/2.webp"}
-                blurDataURL={"/images/gallery/2.jpg"}
+                blurDataURL={"/images/gallery/2.webp"}
               />
             </div>
             <div
@@ -73,7 +73,7 @@ const Gallery = () => {
                 alt="gallery"
                 className="w-full h-full object-cover object-center block"
                 src={"/images/gallery/1.webp"}
-                blurDataURL={"/images/gallery/1.jpg"}
+                blurDataURL={"/images/gallery/1.webp"}
               />
             </div>
           </div>
@@ -91,7 +91,7 @@ const Gallery = () => {
                 alt="gallery"
                 className="w-full h-full object-cover object-center block"
                 src={"/images/gallery/6.webp"}
-                blurDataURL={"/images/gallery/6.jpg"}
+                blurDataURL={"/images/gallery/6.webp"}
               />
             </div>
             <div
@@ -107,7 +107,7 @@ const Gallery = () => {
                 alt="gallery"
                 className="w-full object-cover h-full object-center block"
                 src={"/images/gallery/5.webp"}
-                blurDataURL={"/images/gallery/5.jpg"}
+                blurDataURL={"/images/gallery/5.webp"}
               />
             </div>
             <div
@@ -123,7 +123,7 @@ const Gallery = () => {
                 alt="gallery"
                 className="w-full object-cover h-full object-center block"
                 src={"/images/gallery/4.webp"}
-                blurDataURL={"/images/gallery/4.jpg"}
+                blurDataURL={"/images/gallery/4.webp"}
               />
             </div>
           </div>

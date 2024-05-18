@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .auth-bg {
-  background-image: url("../assets/images/login.jpg");
+  background-image: url("/images/login.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -13,7 +13,7 @@
 }
 
 .banner-bg{
-  background-image: url("../assets/images/hotel1.jpg");
+  background-image: url("/images/hotel1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
