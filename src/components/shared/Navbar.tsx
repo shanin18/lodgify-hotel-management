@@ -86,9 +86,7 @@ const Navbar = () => {
                       src={user?.image}
                       width={10}
                       height={10}
-                      priority
-                      placeholder="blur"
-                      blurDataURL={user?.image}
+                      quality={100}
                       alt="profile"
                     />
                   </div>
