@@ -57,7 +57,7 @@ const Hotels = () => {
         </div>
 
         <div className="flex justify-center mt-8">
-        <Link href="/hotels" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">See more</Link>
+        <Link href="/hotels" className="btn inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">See more</Link>
         </div>
       </div>
     </section>

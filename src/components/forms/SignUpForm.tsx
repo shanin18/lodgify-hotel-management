@@ -1,9 +1,9 @@
 "use client";
 
 import { createUser } from "@/redux/features/user/userSlice";
+import { useAppDispatch } from "@/redux/hooks";
 import Link from "next/link";
 import { useForm } from "react-hook-form";
-import { useDispatch } from "react-redux";
 import { toast } from "react-toastify";
 type Inputs = {
   name: string;
@@ -20,7 +20,7 @@ const SignUpForm = () => {
     reset,
   } = useForm<Inputs>();
 
-  const dispatch = useDispatch<any>();
+  const dispatch = useAppDispatch<any>();
   const onSubmit = async (data: Inputs) => {
     try {
       const result = await dispatch(createUser(data));
@@ -38,8 +38,6 @@ const SignUpForm = () => {
           toast.error(result.error.message);
         }
       }
-
-      console.log(result);
     } catch (error) {
       toast.error(
         "An error occurred while creating the user. Please try again later."
