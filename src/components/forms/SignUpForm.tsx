@@ -3,6 +3,7 @@
 import { createUser } from "@/redux/features/user/userSlice";
 import { useAppDispatch } from "@/redux/hooks";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { useForm } from "react-hook-form";
 import { toast } from "react-toastify";
 type Inputs = {
@@ -21,6 +22,8 @@ const SignUpForm = () => {
   } = useForm<Inputs>();
 
   const dispatch = useAppDispatch<any>();
+  const router = useRouter();
+
   const onSubmit = async (data: Inputs) => {
     try {
       const result = await dispatch(createUser(data));
@@ -28,6 +31,7 @@ const SignUpForm = () => {
       if (result.meta.requestStatus === "fulfilled") {
         toast.success("User created successfully!");
         reset();
+        router.push("/")
       } else if (result.meta.requestStatus === "rejected") {
         if (
           result.error.message ===
