@@ -85,12 +85,6 @@ const HotelCard: React.FC<HotelCardProps> = ({ hotel }) => {
             <AiOutlineArrowRight className="ml-1" />
           </Link>
           <div className="text-gray-400 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm py-1">
-            {/* <Rating
-              readonly
-              initialRating={rating}
-              emptySymbol={<AiFillStar className="icon" color="#ddd" />}
-              fullSymbol={<AiFillStar className="icon" color="#f8c41a" />}
-            /> */}
             <Rating value={rating} />
           </div>
         </div>

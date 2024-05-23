@@ -41,12 +41,6 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({ data }) => {
           <div>
             <h5 className="font-medium text-lg">{user}</h5>
             <div>
-              {/* <Rating
-                readonly
-                initialRating={rating}
-                emptySymbol={<AiFillStar className="icon" color="#ddd" />}
-                fullSymbol={<AiFillStar className="icon" color="#f8c41a" />}
-              /> */}
               <Rating value={rating} />
             </div>
           </div>

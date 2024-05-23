@@ -1,36 +1,120 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a name="readme-top"></a>
 
-## Getting Started
+<!-- TABLE OF CONTENTS -->
 
-First, run the development server:
+# 📗 Table of Contents <a name="about-project">Lodgify</a>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- [🏨 Lodgify ](#-Lodgify-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 🤲 Dua Ruqyah <a name="about-project"></a>
+
+Lodgify efficiently optimizes booking management and enhances guest experiences for hotels and vacation rentals.
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Front-end</summary>
+  <ul>
+    <li><a href="https://nextjs.org/">NextJs</a></li>
+    <li><a href="https://nextjs.org/">Typescript</a></li>
+    <li><a href="https://tailwindcss.com/">Tailwind</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Ensuretheplatform is responsive and accessible across devices**
+- **Implementsecure user authentication and authorization**
+- **Allowproperty owners to easily list and manage their properties**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- <a href="https://y-lyart-seven.vercel.app/">Live Demo</a>
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/shanin18/lodgify-hotel-management.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Install
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Install this project with:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```sh
+  cd lodgify-hotel-management
+  npm install
+```
 
-## Learn More
+### Run tests
 
-To learn more about Next.js, take a look at the following resources:
+To run tests, run the following command:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```sh
+  npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Deployment
 
-## Deploy on Vercel
+You can deploy this project using:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<a href="https://vercel.com">Vercel</a>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+by following the docs instructions
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Syed Shamim Hosan**
+
+- GitHub: [@githubhandle](https://github.com/shanin18)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-shamim-hosan/)
+- Portfolio: [@githubhandle](https://jovial-dieffenbachia-a9caa5.netlify.app/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **will add more amazing features**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Please ⭐️ this repository if you found the project useful.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

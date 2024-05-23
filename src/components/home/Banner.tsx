@@ -1,7 +1,6 @@
 import Link from "next/link";
 
 const Banner = () => {
-
   return (
     <section className="body-font banner-bg">
       <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
@@ -18,17 +17,16 @@ const Banner = () => {
             hexagon try-hard chambray.
           </p>
           <div className="flex justify-center">
-        <Link href="/hotels" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg btn">Book</Link>
-      </div>
+            <Link
+              href="/hotels"
+              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg btn"
+            >
+              Book
+            </Link>
+          </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          {/* <Image placeholder={"blur"} quality={100}
-            className="object-cover object-center rounded"
-            alt="hero"
-            src=""
-            width={0}
-            height={0}
-          /> */}
+          {/* add image */}
         </div>
       </div>
     </section>

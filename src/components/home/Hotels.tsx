@@ -29,9 +29,6 @@ const Hotels = () => {
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
 
-  // if (!hotels?.length) {
-  //   return <Spinner />;
-  // }
 
   return (
     <section className="text-gray-600 body-font">
